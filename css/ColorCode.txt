@@ -1,0 +1,4 @@
+Color fondo main: #cf714e
+Color secundario: #393a43
+Color terciario: #282f35
+Color boton send: #c34e22
